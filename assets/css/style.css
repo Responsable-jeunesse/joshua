@@ -1,0 +1,36 @@
+.navbar {
+    background-color: red;
+}
+
+.navbar-brand,
+.navbar li .nav-link {
+    color: white !important;
+     font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.bangers-regular {
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header  {
+    background-color: yellow;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+main {
+    background-color: hsl(21, 77%, 56%);
+}
+
+.container-carousel {
+    width: 800px;
+    height: 450px;
+    background-color: hsl(21, 77%, 56%);
+}
