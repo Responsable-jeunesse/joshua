@@ -34,3 +34,11 @@ main {
     height: 450px;
     background-color: hsl(21, 77%, 56%);
 }
+
+#cartes-description {
+    background-color: yellow;    
+}
+
+.color-card {
+     background-color: hsl(21, 77%, 56%);   
+}
